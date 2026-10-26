@@ -1,0 +1,113 @@
+{
+  "format": "motiongit.discovery/1",
+  "repositoryId": "941301",
+  "templateId": 630,
+  "owner": "thepandaq",
+  "slug": "deepseek-word-morph",
+  "website": "https://motiongit.com/@thepandaq/deepseek-word-morph",
+  "version": "1.1.0",
+  "technical": {
+    "en": [
+      "Declared runtime profile: html-canvas/1.",
+      "Editable inputs are mapped through the template parameter schema and preset to its existing animation project.",
+      "The declared timeline has a fixed duration; new content fits its existing scene order and timing."
+    ],
+    "zh": [
+      "声明的运行配置：html-canvas/1。",
+      "通过模板参数和预设，将本期文字、数据或素材映射到已有动画工程。",
+      "已声明时间轴为固定时长，本期内容按现有场景顺序和节奏适配。"
+    ]
+  },
+  "checkedAt": "2026-10-16",
+  "availability": "demo-only",
+  "title": {
+    "en": "DeepSeek · Particle Typography",
+    "zh": "DeepSeek 词语粒子"
+  },
+  "summary": {
+    "en": "Particles form four keywords in sequence for concept introductions, feature lists and opening slogans.",
+    "zh": "粒子按顺序拼出四个关键词，适合概念介绍、能力列表与口号式开场。"
+  },
+  "subtitle": {
+    "en": "DeepSeek · Particle Typography",
+    "zh": "DeepSeek 词语粒子"
+  },
+  "category": {
+    "en": "art",
+    "zh": "art"
+  },
+  "ratio": "16:9",
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "durationSeconds": 9,
+  "demo": {
+    "en": "https://media.openaicut.com/previews/630/1.1.0-7b16186bd6b2.mp4",
+    "zh": "https://motiongit.com/@thepandaq/deepseek-word-morph?lang=zh",
+    "poster": "https://motiongit.com/media/covers/630/1.1.0-7cf1d6e6ddc9.jpg"
+  },
+  "materials": [
+    {
+      "en": "Word1: text, up to 6 characters.",
+      "zh": "Word1：文字，不超过 6 个字符。",
+      "required": true
+    },
+    {
+      "en": "Word2: text, up to 6 characters.",
+      "zh": "Word2：文字，不超过 6 个字符。",
+      "required": true
+    },
+    {
+      "en": "Word3: text, up to 6 characters.",
+      "zh": "Word3：文字，不超过 6 个字符。",
+      "required": true
+    },
+    {
+      "en": "Word4: text, up to 6 characters.",
+      "zh": "Word4：文字，不超过 6 个字符。",
+      "required": true
+    },
+    {
+      "en": "Accent: text.",
+      "zh": "Accent：文字。",
+      "required": false
+    }
+  ],
+  "dependencies": [
+    {
+      "en": "Declared runtime profile: html-canvas/1. Check the downloaded package for exact tools and setup steps.",
+      "zh": "声明的运行配置：html-canvas/1。具体工具与版本以下载包为准。"
+    },
+    {
+      "en": "Use the package dependency lock and setup/check instructions. Check existing tools first, install only missing requirements and verify a preview.",
+      "zh": "按下载包的依赖锁和 setup/check 说明检查已有工具，只补齐缺项，并验证预览。"
+    }
+  ],
+  "goodFor": {
+    "en": [
+      "Particles form four keywords in sequence for concept introductions, feature lists and opening slogans."
+    ],
+    "zh": [
+      "关键词介绍",
+      "能力列表",
+      "口号式开场"
+    ]
+  },
+  "boundaries": {
+    "en": [
+      "The documented output is 1920 × 1080, 30 fps. The public demo is 9 seconds.",
+      "Use the actual package parameter bounds; extra materials do not automatically create extra scenes."
+    ],
+    "zh": [
+      "已声明输出为 1920 × 1080，30 fps；公开样片 9 秒。",
+      "按实际包的参数边界制作；增加素材不会自动增加场景。"
+    ]
+  },
+  "capabilities": [
+    {
+      "en": "Optional services require a live catalog, template slot and account check before they can be confirmed.",
+      "zh": "配套服务需核对官网实时能力、模板槽位和账号权限后才能确认。",
+      "status": "check-live"
+    }
+  ]
+}
