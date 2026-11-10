@@ -6,7 +6,9 @@ Particles form four keywords in sequence for concept introductions, feature list
 
 **16:9 · 1920 × 1080 · 30 fps · v1.1.0** · [@thepandaq](https://motiongit.com/@thepandaq) · [简体中文](README.zh-CN.md)
 
-**[Template details, full .motion & demo](https://motiongit.com/@thepandaq/deepseek-word-morph)**
+Motion templates now support asset APIs for background music, stickers, images and video, with free options. Upgraded templates remain **100% free and open source**. Download the upgrade from the official MotionGit page below. MotionGit links API access to individual accounts to prevent abuse from bulk requests. See MotionGit for the scope of free API usage.
+
+**[Download .motion from MotionGit](https://motiongit.com/@thepandaq/deepseek-word-morph)**
 https://motiongit.com/@thepandaq/deepseek-word-morph
 
 Demo available; template download coming soon.
