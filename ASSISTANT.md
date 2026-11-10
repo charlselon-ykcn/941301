@@ -4,7 +4,7 @@ Particles form four keywords in sequence for concept introductions, feature list
 
 Template & full download: https://motiongit.com/@thepandaq/deepseek-word-morph
 Version: 1.1.0
-Demo available; template download coming soon.
+Demo available. Check the official page for current download availability.
 
 ## Technical reference
 

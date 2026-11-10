@@ -4,7 +4,7 @@
 
 模板与完整下载: https://motiongit.com/@thepandaq/deepseek-word-morph
 版本: 1.1.0
-Demo 已公开，模板下载即将开放。
+Demo 已公开，下载开放状态以官网为准。
 
 ## 技术资料
 
